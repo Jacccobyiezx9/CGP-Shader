@@ -42,13 +42,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AlphaClip: 0.378
+    - _AlphaClip: 0.1
     - _AnimationSpeed: 1.5
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _AnimationV2: {r: 1, g: 0, b: 0, a: 0}
-    - _BaseColor: {r: 14.259475, g: 1.1035163, b: 0, a: 0.38431373}
+    - _BaseColor: {r: 14.259475, g: 1.1035163, b: 0, a: 0.5803922}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1632096973694759139
